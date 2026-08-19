@@ -16,14 +16,12 @@ Esta imagen igual muestra algunos de los cambios haciendo zoom en ellos.
 
 En general, los apoyos visuales de la webstory permiten identificar qué álbumes se han mantenido, cuáles cambian de posición y cuáles desaparecen, haciendo mucho más evidente la transformación. 
 
-Al hacer scroll la historia se va desarrollando y no requiere de más interacciones. Considero que funciona bien porque existe un orden en que se ve la información y mantiene al usuario “entretenido” de cierta forma porque va cambiando todo cada vez que uno va avanzando.
+Al hacer scroll la historia se va desarrollando y no requiere de más interacciones. Considero que funciona bien porque existe un orden en que se ve la información y mantiene al usuario “entretenido” de cierta forma porque va cambiando todo cada vez que uno avanza un poco.
 
 Además, existe un buen equilibrio entre texto e imágenes. Los párrafos son breves y las imágenes ocupan gran parte de la pantalla, por lo que el texto funciona como guía para interpretar lo que se está mostrando. 
 
 En cuanto a la calidad de los datos destacaría que usaron el ranking original de Rolling Stone de un archivo de internet y además tuvieron acceso a la revista original de 2003. Además, los datos son claros, al igual que el análisis que hacen de ellos. También se preocupan de explicar de dónde proviene la información utilizada y de verificar que los rankings correspondan efectivamente a las versiones que están comparando. 
 
-Considero que la webstory transmite la información de manera efectiva porque logra transformar una pregunta que puede parecer más subjetiva en una historia que puede ser explorada mediante datos. 
+Considero que la webstory transmite la información de manera efectiva porque logra transformar una pregunta que puede parecer más subjetiva en una historia que puede ser explorada mediante datos. Junto con eso, lo que más destaco es la forma en que se muestra la información y el uso de las imágenes. Se encargaron de tener la portada de cada álbum para construir las distintas partes, al igual que las imágenes de cada jurado. Creo que eso hace la diferencia al momento de querer leer la webstory y ayuda a comprender cada punto que se presenta. 
 
-Lo que más destaco es la forma en que se muestra la información y el uso de las imágenes. Se encargaron de tener la portada de cada álbum para construir las distintas partes, al igual que las imágenes de cada jurado. Creo que eso hace la diferencia al momento de querer leer la webstory y ayuda a comprender cada punto que se presenta. 
-
-Por último, la forma de interacción elegida funciona bien para este tipo de historia. Aunque el usuario no tiene que realizar muchas acciones aparte de hacer scroll o apretar algunos elementos, estos van cambiando a medida que se avanza la lectura y permite descubrir los datos progresivamente y entender las comparaciones sin enfrentarse a toda la información al mismo tiempo. 
+Por último, la forma de interacción elegida funciona bien para este tipo de historia. Aunque el usuario no tiene que realizar muchas acciones aparte de hacer scroll o apretar algunos elementos, estos van cambiando a medida que se avanza la lectura y permite descubrir los datos progresivamente y entender las comparaciones sin enfrentarse a toda la información al mismo tiempo.
