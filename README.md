@@ -1,6 +1,7 @@
 ## Análisis de webstory: What Makes an Album the Greatest of All Time?
 
 URL: https://pudding.cool/2024/03/greatest-music/
+
 La webstory analiza qué factores influyen en que un álbum sea considerado uno de los mejores de todos los tiempos. Para hacerlo, toma como punto de partida las listas de los 500 mejores álbumes de Rolling Stone, principalmente sus versiones de 2003 y 2020.
 
 A partir de los cambios entre ambos rankings, los autores estudian factores como la evolución en las formas de consumir música, la popularidad de los discos y las características de las personas que participaron en las votaciones. La historia busca entender por qué álbumes que en un determinado momento fueron considerados entre los mejores pueden cambiar de posición o desaparecer de la lista con el paso de los años.
