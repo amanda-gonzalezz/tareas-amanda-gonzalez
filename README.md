@@ -9,10 +9,8 @@ La webstory se enfoca en comparar qué discos aparecen en cada ranking y utiliza
 Parte con una comparación sencilla mostrando cómo cambió el ranking de Rolling Stone entre sus distintas ediciones. Los Top 10 de 2003 se mantuvieron prácticamente igual a los de 2012 y en 2020 presentó cambios importantes. Este contraste funciona como el gancho de la historia y permite plantear la pregunta de la webstory.
 
 Esta imagen, por ejemplo, va mostrando la evolución del Top 10, aparece progresivamente, terminan uno encima del otro y es muy útil para ver los cambios que tiene cada año.
-(./foto1.png)
 
 Esta imagen igual muestra algunos de los cambios haciendo zoom en ellos.
-(./foto2.png)
 
 En general, los apoyos visuales de la webstory permiten identificar qué álbumes se han mantenido, cuáles cambian de posición y cuáles desaparecen, haciendo mucho más evidente la transformación. 
 
